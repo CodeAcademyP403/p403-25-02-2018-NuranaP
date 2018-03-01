@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#simple3 .simple31{
+    float: left;
+    background-image: url("simple3.jpg");
+    width: 47%;
+    height: 651px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#simple3 .simple31 .heading1{
+    padding-left: 30px;
+    padding-top: 390px;
+    color: #95A5A6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#simple3 .simple31 .heading2{
+    padding-left: 30px;
+    padding-top: 10px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#simple3 .simple31 .heading3{
+    padding-left: 30px;
+    padding-top: 45px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#simple3 .simple32{
+    background-color: white;
+    width: 53%;
+    float: left;
+    height: 651px;
+}
+#simple3 .simple32 > h2{
+    padding-top: 100px;
+    padding-left: 130px;
+}
+#simple3 .simple32 > p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+#simple3 .simple32 .parag1{
+    padding-top: 60px;
+}
+#simple3 .simple32 .parag2{
+    padding-top: 17px;
+    padding-left: 170px;
+}
+#simple3 .simple32 .parag3{
+    padding-top: 40px;
+}
+input[type=text] {
+    width: 63%;
+    height: 45px;
+    margin-top: 60px;
+    border-radius: 2px;
+    border-color: rgb(158, 24, 185);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 15px;
+}
+input[type=submit] {
+    width: 25%;
+    height: 43px;
+    margin-top: 45px;
+    margin-left: 130px;
+    border-radius: 2px;
+    background-color: rgb(158, 24, 185);
+    font-family: Arial Rounded MT Bold;
+    color: white;
+}
